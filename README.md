@@ -1,8 +1,8 @@
 <a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/">Estudante do 6° período de Sistemas de Informações.</a> <br>
-Profissional em transição de carreira. <br>
-Em busca de problemas de programação que exigem soluções inteligentes. <br>
-Em busca de vagas de estágio ou de desenvolvedor junior. <br>
-[ HTML, CSS , Javascrip, Java e PHP ] <br>
+Estagiário em Desenvolvimento Full Stack. 1 ano de experiência. <br>
+Em busca de novos desafios e problemas de programação para aplicar meus conhecimentos teóricos e prático. <br>
+Atualmente, em busca de vagas de estágio ou posições de desenvolvedor júnior. <br>
+[Tecnologias: HTML, CSS, JavaScript, Java, PHP, SQL] <br>
 Uma combinação de códigos que desenvolvi e/ou estou estudando.
 <div align="center">
   <a href="https://github.com/eduardosaatkamp">
