@@ -1,4 +1,4 @@
-<a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/">Estudante do 8° período de Sistemas de Informações.</a> <br>
+<a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/">Estudante de Sistemas de Informação.</a> <br>
 Estagiário em Desenvolvimento Full Stack. +2 anos de experiência. <br>
 Desenvolvedor em formação, com foco em backend Java (Spring Boot) e frontend React + TypeScript. <br>
 Tenho experiência prática com testes automatizados (JUnit, Jest), bancos relacionais (PostgreSQL), Python, Docker, e versionamento com Git.<br>
