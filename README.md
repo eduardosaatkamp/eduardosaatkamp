@@ -1,13 +1,11 @@
-<a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/">Estudante de Sistemas de Informação.</a> <br>
-Estagiário em Desenvolvimento Full Stack. +2 anos de experiência. <br>
-Desenvolvedor com graduação em andamento, com foco em backend Java (Spring Boot) e frontend React + TypeScript. <br>
-Tenho experiência prática com testes automatizados (JUnit, Jest), bancos relacionais (PostgreSQL), Python, Docker, e versionamento com Git.<br>
-Movido por um senso de melhoria contínua. Gosto de entender o porquê por trás das decisões de código, e valorizo boas práticas. <br> 
-Em busca de novos desafios e problemas de programação para aplicar meus conhecimentos teóricos e prático. <br>
-Uma combinação de códigos que desenvolvi e/ou estou estudando.
+<a href="https://eduardosaatkamp.github.io/portfolioEduardoSaat/">Information Systems Student.</a> <br>
+Junior Full Stack Developer with 2+ years of experience. <br>
+Developer currently pursuing a degree, focused on backend development with Java (Spring Boot) and PHP, and frontend development with React + TypeScript. <br>
+Hands-on experience with automated testing (JUnit, Jest), relational databases (PostgreSQL), Python, Docker, and version control using Git. <br>
+Driven by a mindset of continuous improvement. I enjoy understanding the "why" behind coding decisions and value clean code and best practices. <br>
+Currently seeking new challenges and programming problems to apply both theoretical and practical knowledge. <br>
+A combination of projects I’ve developed and/or am currently studying.
 <div align="center">
   <a href="https://github.com/eduardosaatkamp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosaatkamp&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
-
